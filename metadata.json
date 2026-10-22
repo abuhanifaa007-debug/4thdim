@@ -1,0 +1,8 @@
+{
+  "name": "ChronoSpatial 4D - Spacetime Video Simulator",
+  "description": "Interactive 4D spacetime volumetric video simulator. Extrude time into the 3rd spatial axis, navigate hyper-temporal slices, slit-scan spacetime cuts, and analyze dynamic biological and physical processes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
